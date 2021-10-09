@@ -12,7 +12,7 @@ from discord.ext import commands
 
 
 
-token = ODk1OTc2MTc5OTgxNTAwNDU3.YWAY1w.YgE6oX3G4E3IwLNLGtCO1iDe6AE
+token =
 # Silence useless bug reports messages
 youtube_dl.utils.bug_reports_message = lambda: ''
 
