@@ -7,7 +7,6 @@ import random
 import os
 import discord
 import youtube_dl
-from keep_alive import keep_alive
 from async_timeout import timeout
 from discord.ext import commands
 
