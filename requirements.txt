@@ -10,3 +10,6 @@ yarl==1.6.3
 discord
 requests
 asyncio
+ffmpeg
+YouTube-dl
+dotenv
