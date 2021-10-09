@@ -13,7 +13,7 @@ from discord.ext import commands
 
 
 keep_alive()
-token = os.environ['TOKEN']
+token = "ODk1OTc2MTc5OTgxNTAwNDU3.YWAY1w.YgE6oX3G4E3IwLNLGtCO1iDe6AE"
 # Silence useless bug reports messages
 youtube_dl.utils.bug_reports_message = lambda: ''
 
